@@ -1,5 +1,5 @@
 {
-  "name": "gbuilder",
+  "name": "garden-builder",
   "version": "1.0.0",
   "description": "node server plus",
   "main": "index.js",
