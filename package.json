@@ -1,0 +1,26 @@
+{
+  "name": "gbuilder",
+  "version": "1.0.0",
+  "description": "node server plus",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gardenliu/GBuilder.git"
+  },
+  "keywords": [
+    "builder",
+    "node"
+  ],
+  "author": "gardenliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gardenliu/GBuilder/issues"
+  },
+  "homepage": "https://github.com/Gardenliu/GBuilder#readme"
+}
