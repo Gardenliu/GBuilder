@@ -1,6 +1,6 @@
 {
   "name": "garden-builder",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "node server plus",
   "main": "index.js",
   "directories": {
